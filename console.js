@@ -1,4 +1,4 @@
--console.log("hello world");
+-console.log("Hello world");
 
 function main() {
     console.log(1);
